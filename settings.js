@@ -15,8 +15,8 @@
 const fs = require("fs")
 const chalk = require("chalk")
 /*============== NOMOR ==============*/
-global.owner = ['6288806305848']
-global.premium = ['6288806305848']
+global.owner = ['6285175463174']
+global.premium = ['6285175463174']
 global.namaowner = "Suns"
 global.namakontak = 'Suns' //UBAH KE NAMA KALIAN AGAR PUSH KONTAK SAAT DI IMPORT ADA NAMA MU
 global.namebot = "SunsPush"
